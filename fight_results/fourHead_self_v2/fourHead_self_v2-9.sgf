@@ -1,0 +1,33 @@
+(;FF[4]CA[UTF-8]AP[gogui-twogtp:1.4.9]SZ[15]
+KM[6.5]PB[MiniZero:0.0]PW[MiniZero:0.0]DT[2021-11-13]RE[0]
+C[Black command: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+White command: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+Black version: 0.0
+White version: 0.0
+Result[Black\]: 0
+Result[White\]: 0
+Host: NV24 (Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz)
+Date: November 13, 2021 at 6:22:49 PM CST]
+;B[nh];W[kh];B[kg];W[jf];B[li];W[jh];B[lg];W[jg];B[ji];W[ki]
+;B[ih];W[if];B[hf];W[lj];B[ig];W[kj];B[jj];W[ik];B[kk];W[ll]
+;B[jl];W[jm];B[im];W[lk];B[kl];W[mk];B[nl];W[ml];B[km];W[je]
+;B[jd];W[he];B[gd];W[kd];B[hg];W[gf];B[le];W[gg];B[ge];W[mj]
+;B[mm];W[lf];B[hl];W[kn];B[lm];W[gl];B[fg];W[id];B[jc];W[nm]
+;B[on];W[hk];B[gj];W[fk];B[gk];W[fj];B[fl];W[em];B[ej];W[ef]
+;B[ff];W[fe];B[eg];W[dh];B[df];W[fd];B[fi];W[fh];B[eh];W[ek]
+;B[dk];W[gh];B[cj];W[di];B[hi];W[gi];B[dl];W[cl];B[ic];W[hd]
+;B[hb];W[gb];B[kf];W[lc];B[mb];W[hn];B[en];W[cf];B[fc];W[bi]
+;B[cg];W[gc];B[mh];W[ni];B[lb];W[kc];B[kb];W[jb];B[gn];W[ed]
+;B[dc];W[bg];B[bh];W[ai];B[fb];W[de];B[ah];W[cd];B[bd];W[ce]
+;B[ee];W[dm];B[ci];W[jk];B[me];W[md];B[cc];W[bc];B[ab];W[ck]
+;B[lo];W[ln];B[jn];W[ko];B[cm];W[ke];B[dj];W[nb];B[mc];W[dd]
+;B[nd];W[oe];B[nj];W[fm];B[ch];W[hj];B[hm];W[aj];B[ng];W[mg]
+;B[nf];W[ne];B[db];W[ae];B[fa];W[ag];B[bf];W[af];B[ad];W[be]
+;B[eb];W[cb];B[ea];W[da];B[ga];W[ha];B[ac];W[hc];B[ij];W[ei]
+;B[of];W[ak];B[al];W[ec];B[mi];W[lh];B[dg];W[bj];B[bk];W[ia]
+;B[cn];W[dn];B[bl];W[mf];B[og];W[oh];B[ja];W[oi];B[ka];W[oj]
+;B[ok];W[la];B[ib];W[am];B[hh];W[ie];B[om];W[ol];B[ld];W[ca]
+;B[aa];W[bb];B[ba];W[ii];B[bm];W[bn];B[il];W[el];B[nc];W[nk]
+;B[gm];W[ma];B[na];W[mn];B[oc];W[od];B[oa];W[ob];B[in];W[nn]
+;B[oo];W[no];B[mo];W[fn];B[jo];W[io];B[an];W[bo];B[do];W[co]
+;B[go];W[fo];B[ho];W[eo];B[ao];W[];B[])

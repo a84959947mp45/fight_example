@@ -1,0 +1,17 @@
+(;FF[4]CA[UTF-8]AP[gogui-twogtp:1.4.9]SZ[15]
+KM[6.5]PB[MiniZero:0.0]PW[MiniZero:0.0]DT[2021-11-13]RE[B+R]
+C[Black command: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+White command: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+Black version: 0.0
+White version: 0.0
+Result[Black\]: B+R
+Result[White\]: B+R
+Host: NV24 (Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz)
+Date: November 13, 2021 at 6:08:37 PM CST]
+;B[bh];W[eh];B[ei];W[fj];B[dg];W[fh];B[di];W[fi];B[fg];W[eg]
+;B[gh];W[gj];B[hj];W[fk];B[fl];W[hi];B[ih];W[df];B[gi];W[ee]
+;B[ef];W[fd];B[gc];W[fe];B[ge];W[ce];B[bd];W[dd];B[bf];W[be]
+;B[de];W[cd];B[ff];W[eb];B[gf];W[gg];B[gd];W[gb];B[dc];W[fb]
+;B[db];W[cc];B[cb];W[dk];B[ek];W[el];B[dm];W[dj];B[bi];W[bj]
+;B[ii];W[ec];B[ga];W[cg];B[cf];W[hk];B[il];W[cj];B[ej];W[bb]
+;B[aa];W[gk];B[if];W[hf];B[ig];W[ie];B[ij])

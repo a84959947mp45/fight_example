@@ -1,0 +1,26 @@
+# Black: MiniZero
+# BlackCommand: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+# BlackLabel: MiniZero:0.0
+# BlackVersion: 0.0
+# Date: November 13, 2021 at 5:06:04 PM CST
+# Host: NV24 (Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz)
+# Komi: 6.5
+# Referee: -
+# Size: 15
+# White: MiniZero
+# WhiteCommand: ./Release/MiniZero -mode gtp -conf_file testing_cfg/OOG_AZ.cfg -conf_str GPU_LIST=3:MODEL_FILE=/Training/gomoku_git_four_wish_v2/model/weight_iter_75000.pt
+# WhiteLabel: MiniZero:0.0
+# WhiteVersion: 0.0
+# Xml: 0
+#
+#GAME	RES_B	RES_W	RES_R	ALT	DUP	LEN	TIME_B	TIME_W	CPU_B	CPU_W	ERR	ERR_MSG
+0	B+R	B+R	B+R	0	-	41	81.4	78	0	0	0	
+1	W+R	W+R	W+R	1	-	61	114	121.1	0	0	0	
+2	0	0	?	0	-	227	422.1	424.4	0	0	0	
+3	0	0	?	1	-	227	418.6	433.6	0	0	0	
+4	0	0	?	0	-	227	418	416.8	0	0	0	
+5	W+R	W+R	W+R	1	-	47	88.3	90.5	0	0	0	
+6	B+R	B+R	B+R	0	-	55	107.4	101.7	0	0	0	
+7	W+R	W+R	W+R	1	-	49	90.4	94.2	0	0	0	
+8	B+R	B+R	B+R	0	-	67	126.9	125.4	0	0	0	
+9	0	0	?	1	-	227	424.3	427.1	0	0	0	
